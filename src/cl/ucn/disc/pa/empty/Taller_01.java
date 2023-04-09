@@ -4,7 +4,7 @@ import edu.princeton.cs.stdlib.StdDraw;
 
 import java.awt.*;
 
-public class Main {
+public class Taller_01 {
     public static void main(String[] args) {
 
         double max = 1.0;
